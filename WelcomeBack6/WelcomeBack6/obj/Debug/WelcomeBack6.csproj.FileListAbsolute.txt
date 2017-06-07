@@ -1,0 +1,7 @@
+U:\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\bin\Debug\WelcomeBack6.exe.config
+F:\Programming\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\bin\Debug\WelcomeBack6.exe.config
+F:\Programming\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\bin\Debug\WelcomeBack6.exe
+F:\Programming\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\bin\Debug\WelcomeBack6.pdb
+F:\Programming\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\obj\Debug\WelcomeBack6.csprojResolveAssemblyReference.cache
+F:\Programming\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\obj\Debug\WelcomeBack6.exe
+F:\Programming\C#\WelcomeBack6\WelcomeBack6\WelcomeBack6\obj\Debug\WelcomeBack6.pdb
